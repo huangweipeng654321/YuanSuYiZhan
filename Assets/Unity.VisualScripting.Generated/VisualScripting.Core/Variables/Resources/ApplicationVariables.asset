@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c63e9930078442aa987ca9a1511ae44, type: 3}
+  m_Name: ApplicationVariables
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"declarations":{"Kind":"Flow","collection":{"$content":[{"name":"\u751f\u6210\u7269","value":{"$content":[{"Key":{"$content":"H2O","$type":"System.String"},"Value":{"$content":0,"$type":"UnityEngine.Object"}},{"Key":{"$content":"NaCl","$type":"System.String"},"Value":{"$content":1,"$type":"UnityEngine.Object"}},{"Key":{"$content":"KCl","$type":"System.String"},"Value":{"$content":2,"$type":"UnityEngine.Object"}},{"Key":{"$content":"CaCl2","$type":"System.String"},"Value":{"$content":3,"$type":"UnityEngine.Object"}},{"Key":{"$content":"H2","$type":"System.String"},"Value":{"$content":4,"$type":"UnityEngine.Object"}},{"Key":{"$content":"O2","$type":"System.String"},"Value":{"$content":5,"$type":"UnityEngine.Object"}},{"Key":{"$content":"P2O5","$type":"System.String"},"Value":{"$content":6,"$type":"UnityEngine.Object"}},{"Key":{"$content":"Cu","$type":"System.String"},"Value":{"$content":7,"$type":"UnityEngine.Object"}},{"Key":{"$content":"FeSO4","$type":"System.String"},"Value":{"$content":8,"$type":"UnityEngine.Object"}},{"Key":{"$content":"ZnCl2","$type":"System.String"},"Value":{"$content":9,"$type":"UnityEngine.Object"}},{"Key":{"$content":"CO2","$type":"System.String"},"Value":{"$content":10,"$type":"UnityEngine.Object"}},{"Key":{"$content":"CaO","$type":"System.String"},"Value":{"$content":11,"$type":"UnityEngine.Object"}},{"Key":{"$content":"Al2O3","$type":"System.String"},"Value":{"$content":12,"$type":"UnityEngine.Object"}},{"Key":{"$content":"Al","$type":"System.String"},"Value":{"$content":13,"$type":"UnityEngine.Object"}},{"Key":{"$content":"AlCl3","$type":"System.String"},"Value":{"$content":14,"$type":"UnityEngine.Object"}},{"Key":{"$content":"FeCl2","$type":"System.String"},"Value":{"$content":15,"$type":"UnityEngine.Object"}},{"Key":{"$content":"Fe3O4","$type":"System.String"},"Value":{"$content":16,"$type":"UnityEngine.Object"}},{"Key":{"$content":"FeCl3","$type":"System.String"},"Value":{"$content":17,"$type":"UnityEngine.Object"}},{"Key":{"$content":"Ca(OH)2","$type":"System.String"},"Value":{"$content":18,"$type":"UnityEngine.Object"}},{"Key":{"$content":"Fe2O3","$type":"System.String"},"Value":{"$content":19,"$type":"UnityEngine.Object"}},{"Key":{"$content":"Fe","$type":"System.String"},"Value":{"$content":20,"$type":"UnityEngine.Object"}},{"Key":{"$content":"CaCO3","$type":"System.String"},"Value":{"$content":21,"$type":"UnityEngine.Object"}},{"Key":{"$content":"NaHCO3","$type":"System.String"},"Value":{"$content":22,"$type":"UnityEngine.Object"}},{"Key":{"$content":"Na2CO3","$type":"System.String"},"Value":{"$content":23,"$type":"UnityEngine.Object"}},{"Key":{"$content":"Cl2","$type":"System.String"},"Value":{"$content":24,"$type":"UnityEngine.Object"}},{"Key":{"$content":"NaOH","$type":"System.String"},"Value":{"$content":25,"$type":"UnityEngine.Object"}}],"$type":"Unity.VisualScripting.AotDictionary"},"typeHandle":{"Identification":"Unity.VisualScripting.AotDictionary,
+      Unity.VisualScripting.Core, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _objectReferences:
+    - {fileID: 1437113455985416107, guid: 4537a3ed0ade1474c949883dc126dc29, type: 3}
+    - {fileID: 2736665852344760424, guid: a5ea5555ea2c8404fa0c6709f4a013a1, type: 3}
+    - {fileID: 2736665852344760424, guid: 0586ab18dc1ee144caa255a8d6ef3ebd, type: 3}
+    - {fileID: 2736665852344760424, guid: 304353bf1bcc4f84c92d225e1b9a5ba4, type: 3}
+    - {fileID: 3964211026554457160, guid: 2d0f5bba9227d3048af1944b0877f724, type: 3}
+    - {fileID: 163179585058627110, guid: 6b748cbc6c4df6f47b4115a29e596025, type: 3}
+    - {fileID: 227585498525180073, guid: bca09c6eac03ead46a83869caf8ae50b, type: 3}
+    - {fileID: 1186853107839621775, guid: a648d8170ad8a494699dfbababf2c236, type: 3}
+    - {fileID: 7893119782954933816, guid: 0573113caa8467445bff125e8c313ea8, type: 3}
+    - {fileID: 499336271172963336, guid: 2ccd5cced94ede743aaf0b7e2b5c2fc1, type: 3}
+    - {fileID: 6566638366498506454, guid: 14c182f0405e0f14895aa232daec5341, type: 3}
+    - {fileID: 742523398045852631, guid: fec240ffa114477468d73849825eb5e3, type: 3}
+    - {fileID: 2054160328552341287, guid: 0c31ced41b5b03c4fb980e4f87004186, type: 3}
+    - {fileID: 7541328630468296918, guid: 23f8fd13b685f0049bae6aa7874e3ea4, type: 3}
+    - {fileID: 5819579911016277086, guid: 6cd00b788581e354195c528f0b27549c, type: 3}
+    - {fileID: 2150379329829074253, guid: c15d657586481224bbfa8e989d3f61e2, type: 3}
+    - {fileID: 8885225973001252218, guid: fb6cb3bf49a2c7745b74ab71f992c6c1, type: 3}
+    - {fileID: 5524606181384800331, guid: 3ed7e1412aeaf8f48ace44a1a9d52c5d, type: 3}
+    - {fileID: 6705885389848922283, guid: 81a54c74234519049aacabf9b0ac9f05, type: 3}
+    - {fileID: 4188286237421248237, guid: eef1d6a6a148f224785d738f07f2cfc9, type: 3}
+    - {fileID: 8723909063517898331, guid: 340efc3443b85d243ab75dd03d13e6b7, type: 3}
+    - {fileID: 5295274860309694647, guid: 0957a9d80c6371c47962efcaec2feffb, type: 3}
+    - {fileID: 835697694174324169, guid: bb582b8b797f5574495a1a5d450ab83c, type: 3}
+    - {fileID: 2473396993587332554, guid: 9b245833f7b762b438f7f176f140a436, type: 3}
+    - {fileID: 2602299457570904497, guid: dcb5f9cba44f82c47897ec5c13f52b4f, type: 3}
+    - {fileID: 8542272684561187151, guid: 03798c269dde8ff4c850592edc8b90ce, type: 3}
