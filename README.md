@@ -11,7 +11,7 @@ As Lead Game Designer & Programmer, I independently built and optimised the core
 
 ## 🛠️ Tech Stack
 Engine: Unity
-Language: Unity visual scripting + C#
+Language: Unity Visual Scripting + C#
 
 ## 🚀 How to Run
 1. Clone the repository.
