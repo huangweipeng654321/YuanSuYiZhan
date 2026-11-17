@@ -1,9 +1,9 @@
 # Element Station
 
-## Background
+## 📖 Background
 Chemical equations are hard to memorise and reaction mechanisms hard to visualise; the project bridges textbook formulas and experimental logic through play.
 
-## Functionality
+## 🎮 Functionality
 A pixel-art lab simulation where players synthesise target compounds using real reaction rules (decomposition, displacement, combination, double replacement) through trial and error.
 
 ## Contribution
