@@ -6,7 +6,7 @@ Chemical equations are hard to memorise and reaction mechanisms hard to visualis
 ## 🎮 Functionality
 A pixel-art lab simulation where players synthesise target compounds using real reaction rules (decomposition, displacement, combination, double replacement) through trial and error.
 
-## Contribution
+## 💪 Contribution
 As Lead Game Designer & Programmer, I independently built and optimised the core systems and designed the progressive, reaction-based levels.
 
 ## 🛠️ Tech Stack
